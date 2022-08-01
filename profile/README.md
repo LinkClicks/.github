@@ -2,4 +2,4 @@
 
 ## The biggest ad platforms. One simple dashboard.
 
-Our tools make it easy to measure performance and compare prices all in one spot.
+Our tools make it easy to manage ad campaigns on multiple networks all in one spot.
